@@ -1,0 +1,2 @@
+# wazuh-scripts
+Random Stuff
